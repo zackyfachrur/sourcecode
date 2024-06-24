@@ -1,3 +1,3 @@
 ## Download Source Code : 
   
-  ### Klik Tombol berwarna hijau yang bertuliskan code, Lalu pilih download zip.
+  ### Klik tombol berwarna hijau yang bertuliskan code, Lalu pilih download zip.

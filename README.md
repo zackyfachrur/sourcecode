@@ -1,4 +1,4 @@
 ## Download Source Code : 
 - Klik File .zip yang ingin kalian download
-<img src="panduan/1.jpg">
+<img src="Panduan/1.png">
 - Kemudian diatas 
